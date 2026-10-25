@@ -1,0 +1,10 @@
+target,Mean,FeedTypeMean,Ridge,RandomForest,ExtraTrees,HistGB,best_model
+CGE,14.631,14.911,15.093,12.584,13.836,12.123,HistGB
+CH4,2.918,2.893,3.281,2.038,2.191,2.323,RandomForest
+CO,7.704,7.755,10.793,6.389,6.731,6.602,RandomForest
+CO2,4.809,4.93,5.015,4.618,4.616,4.725,ExtraTrees
+H2,14.668,14.679,10.29,6.133,6.82,6.832,RandomForest
+H2_CO,20.398,19.907,13.871,9.91,10.25,10.177,RandomForest
+gas_LHV,3.135,3.011,2.024,1.486,1.631,1.373,HistGB
+gas_yield,0.674,0.67,0.428,0.485,0.492,0.558,Ridge
+syngas_share_N2free,11.329,11.14,9.741,8.919,7.642,9.26,ExtraTrees

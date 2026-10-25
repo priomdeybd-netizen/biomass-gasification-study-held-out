@@ -1,0 +1,135 @@
+{
+ "data_url": "https://raw.githubusercontent.com/SimonAscher/Interpretable-Machine-Learning-to-Model-Biomass-and-Waste-Gasification/b4b75058e64c799fddd0c334d68041440966c1ef/data/20220810_Dataset_Gasification_Ascher.xlsx",
+ "n_rows": 312,
+ "n_studies": 29,
+ "feature_numeric": [
+  "C",
+  "H",
+  "N",
+  "S",
+  "O",
+  "feed_LHV",
+  "feed_particle_size",
+  "feed_ash",
+  "feed_moisture",
+  "temperature",
+  "ER",
+  "pressure_elevated"
+ ],
+ "feature_categorical": [
+  "feed_type",
+  "gasifying_agent",
+  "reactor_type",
+  "operating_condition",
+  "catalyst",
+  "scale",
+  "bed_material"
+ ],
+ "numeric_dropped_for_missing": [
+  "residence_time",
+  "steam_biomass_ratio"
+ ],
+ "pressurised_rows": 9,
+ "pressurised_studies": [
+  "huynh, fuel 2013, 103, 987"
+ ],
+ "sklearn": "1.6.1",
+ "seed": 42,
+ "bootstrap_resamples": 2000,
+ "random_cv_repeats": 3,
+ "loso_RF": {
+  "H2": {
+   "MAE": 6.132546265162552,
+   "R2": 0.7567192507129001,
+   "skill": 0.5819033559215536
+  },
+  "CO": {
+   "MAE": 6.3891747611915,
+   "R2": 0.18361074560514956,
+   "skill": 0.1706471301880379
+  },
+  "CO2": {
+   "MAE": 4.6183797526649455,
+   "R2": -0.002844527325149393,
+   "skill": 0.03961328094567884
+  },
+  "CH4": {
+   "MAE": 2.038235378321709,
+   "R2": 0.3476343758775059,
+   "skill": 0.3015888554934337
+  },
+  "H2_CO": {
+   "MAE": 9.909559711624691,
+   "R2": 0.5920405539602037,
+   "skill": 0.5141993495179219
+  },
+  "syngas_share_N2free": {
+   "MAE": 8.918818541923542,
+   "R2": 0.20785650492680097,
+   "skill": 0.21271837458700982
+  },
+  "gas_yield": {
+   "MAE": 0.4851328649055092,
+   "R2": 0.30314005248315656,
+   "skill": 0.28047246478013554
+  },
+  "gas_LHV": {
+   "MAE": 1.4863263046253035,
+   "R2": 0.6582641714097147,
+   "skill": 0.5259596660351433
+  },
+  "CGE": {
+   "MAE": 12.583860873923186,
+   "R2": 0.20975019689934282,
+   "skill": 0.1398971216526359
+  }
+ },
+ "random_RF": {
+  "H2": {
+   "MAE": 2.933732803129967,
+   "R2": 0.9266804065767373,
+   "skill": 0.7934586820911365
+  },
+  "CO": {
+   "MAE": 2.6137921912892303,
+   "R2": 0.8294943736677539,
+   "skill": 0.6477937233688169
+  },
+  "CO2": {
+   "MAE": 1.730273839869301,
+   "R2": 0.8375636405285324,
+   "skill": 0.6262533039781933
+  },
+  "CH4": {
+   "MAE": 0.9421412676918373,
+   "R2": 0.7564378583343278,
+   "skill": 0.6671702457877757
+  },
+  "H2_CO": {
+   "MAE": 3.161917503396466,
+   "R2": 0.9533387030488738,
+   "skill": 0.8390856145348846
+  },
+  "syngas_share_N2free": {
+   "MAE": 3.311289462381093,
+   "R2": 0.8255880687523579,
+   "skill": 0.7001669006350624
+  },
+  "gas_yield": {
+   "MAE": 0.20972468118195053,
+   "R2": 0.8968123952118771,
+   "skill": 0.672817476182535
+  },
+  "gas_LHV": {
+   "MAE": 0.5379919931765883,
+   "R2": 0.9482622022759957,
+   "skill": 0.8220426141977621
+  },
+  "CGE": {
+   "MAE": 7.817574313693336,
+   "R2": 0.6147007907453795,
+   "skill": 0.44967390329737567
+  }
+ },
+ "minutes": 13.9
+}

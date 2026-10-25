@@ -1,0 +1,337 @@
+target,nominal,study,coverage
+H2,0.8,"arena, fuel 2014, 117, 528",1.0
+H2,0.8,"arena, waste management 2010, 30, 1212",0.875
+H2,0.8,"baratieri, waste biomass valor 2010, 1, 283",1.0
+H2,0.8,"biagini, bioresource technology 2016, 201, 156",1.0
+H2,0.8,"de andres, fuel processing technology 2011, 92, 433",1.0
+H2,0.8,"dutta,energy procedia 2014, 54, 21",1.0
+H2,0.8,"erkiaga, chem. eng. j. 2014, 237, 259",0.2857142857142857
+H2,0.8,"fremaux, energy convers. manag. 2015, 91, 427",0.0
+H2,0.8,"gai, int. j. hydrog 2012, 37, 4935",1.0
+H2,0.8,"herguido, ind. eng. chem. res. 1992, 31, 1274",0.875
+H2,0.8,"huili liu, j. nat. gas chem. 2012, 21, 374",1.0
+H2,0.8,"huynh, fuel 2013, 103, 987",0.8888888888888888
+H2,0.8,"iovane, biomass bioenerg 2013, 56, 423",0.6666666666666666
+H2,0.8,"kaewluan, fuel processing technology 2011, 92, 671",1.0
+H2,0.8,"karatas, fuel 2018, 214, 285",0.3333333333333333
+H2,0.8,"khan, energy convers. manag. 2014, 87, 1224",0.25
+H2,0.8,"lahijani, bioresource technology 2011, 102, 2068",1.0
+H2,0.8,"loha, j renew and sust energy 2013, 5, 043111",1.0
+H2,0.8,"luo, energy 2012, 44, 391",0.8
+H2,0.8,"lv, bioresource technology 2004, 95, 95",0.0
+H2,0.8,"mansaray, biomass and bioenergy 1999, 17, 315",1.0
+H2,0.8,"narváez, ind. eng. chem. res. 1996, 35, 2110",1.0
+H2,0.8,"ruoppolo, waste management 2012, 32, 724",0.8888888888888888
+H2,0.8,"sarker, energy conversion and management, 2015, 103, 801",1.0
+H2,0.8,"sarker, energy conversion and management, 2015, 91, 451",1.0
+H2,0.8,"song, biomass bioenergy 2012, 36, 258",0.9090909090909091
+H2,0.8,"wang, int. j. hydrog 2012, 37, 6503",0.75
+H2,0.8,"yin, bioresour. technol. 2012, 119,15",1.0
+H2,0.8,"zhang, fuel 2017, 188, 628",0.0
+H2,0.9,"arena, fuel 2014, 117, 528",1.0
+H2,0.9,"arena, waste management 2010, 30, 1212",1.0
+H2,0.9,"baratieri, waste biomass valor 2010, 1, 283",1.0
+H2,0.9,"biagini, bioresource technology 2016, 201, 156",1.0
+H2,0.9,"de andres, fuel processing technology 2011, 92, 433",1.0
+H2,0.9,"dutta,energy procedia 2014, 54, 21",1.0
+H2,0.9,"erkiaga, chem. eng. j. 2014, 237, 259",1.0
+H2,0.9,"fremaux, energy convers. manag. 2015, 91, 427",0.5
+H2,0.9,"gai, int. j. hydrog 2012, 37, 4935",1.0
+H2,0.9,"herguido, ind. eng. chem. res. 1992, 31, 1274",1.0
+H2,0.9,"huili liu, j. nat. gas chem. 2012, 21, 374",1.0
+H2,0.9,"huynh, fuel 2013, 103, 987",1.0
+H2,0.9,"iovane, biomass bioenerg 2013, 56, 423",0.6666666666666666
+H2,0.9,"kaewluan, fuel processing technology 2011, 92, 671",1.0
+H2,0.9,"karatas, fuel 2018, 214, 285",0.8666666666666667
+H2,0.9,"khan, energy convers. manag. 2014, 87, 1224",0.25
+H2,0.9,"lahijani, bioresource technology 2011, 102, 2068",1.0
+H2,0.9,"loha, j renew and sust energy 2013, 5, 043111",1.0
+H2,0.9,"luo, energy 2012, 44, 391",1.0
+H2,0.9,"lv, bioresource technology 2004, 95, 95",0.05263157894736842
+H2,0.9,"mansaray, biomass and bioenergy 1999, 17, 315",1.0
+H2,0.9,"narváez, ind. eng. chem. res. 1996, 35, 2110",1.0
+H2,0.9,"ruoppolo, waste management 2012, 32, 724",0.9444444444444444
+H2,0.9,"sarker, energy conversion and management, 2015, 103, 801",1.0
+H2,0.9,"sarker, energy conversion and management, 2015, 91, 451",1.0
+H2,0.9,"song, biomass bioenergy 2012, 36, 258",0.9090909090909091
+H2,0.9,"wang, int. j. hydrog 2012, 37, 6503",0.8333333333333334
+H2,0.9,"yin, bioresour. technol. 2012, 119,15",1.0
+H2,0.9,"zhang, fuel 2017, 188, 628",0.0
+CO,0.8,"arena, fuel 2014, 117, 528",1.0
+CO,0.8,"arena, waste management 2010, 30, 1212",0.6666666666666666
+CO,0.8,"baratieri, waste biomass valor 2010, 1, 283",0.3333333333333333
+CO,0.8,"biagini, bioresource technology 2016, 201, 156",1.0
+CO,0.8,"de andres, fuel processing technology 2011, 92, 433",1.0
+CO,0.8,"dutta,energy procedia 2014, 54, 21",1.0
+CO,0.8,"erkiaga, chem. eng. j. 2014, 237, 259",0.2857142857142857
+CO,0.8,"fremaux, energy convers. manag. 2015, 91, 427",0.0
+CO,0.8,"gai, int. j. hydrog 2012, 37, 4935",0.8571428571428571
+CO,0.8,"herguido, ind. eng. chem. res. 1992, 31, 1274",0.8125
+CO,0.8,"huili liu, j. nat. gas chem. 2012, 21, 374",0.8888888888888888
+CO,0.8,"huynh, fuel 2013, 103, 987",0.7777777777777778
+CO,0.8,"iovane, biomass bioenerg 2013, 56, 423",1.0
+CO,0.8,"kaewluan, fuel processing technology 2011, 92, 671",1.0
+CO,0.8,"karatas, fuel 2018, 214, 285",0.6666666666666666
+CO,0.8,"khan, energy convers. manag. 2014, 87, 1224",0.5
+CO,0.8,"lahijani, bioresource technology 2011, 102, 2068",1.0
+CO,0.8,"loha, j renew and sust energy 2013, 5, 043111",1.0
+CO,0.8,"luo, energy 2012, 44, 391",0.7
+CO,0.8,"lv, bioresource technology 2004, 95, 95",0.05263157894736842
+CO,0.8,"mansaray, biomass and bioenergy 1999, 17, 315",1.0
+CO,0.8,"narváez, ind. eng. chem. res. 1996, 35, 2110",1.0
+CO,0.8,"ruoppolo, waste management 2012, 32, 724",0.6666666666666666
+CO,0.8,"sarker, energy conversion and management, 2015, 103, 801",1.0
+CO,0.8,"sarker, energy conversion and management, 2015, 91, 451",1.0
+CO,0.8,"song, biomass bioenergy 2012, 36, 258",1.0
+CO,0.8,"wang, int. j. hydrog 2012, 37, 6503",0.8333333333333334
+CO,0.8,"yin, bioresour. technol. 2012, 119,15",1.0
+CO,0.8,"zhang, fuel 2017, 188, 628",0.0
+CO,0.9,"arena, fuel 2014, 117, 528",1.0
+CO,0.9,"arena, waste management 2010, 30, 1212",0.9166666666666666
+CO,0.9,"baratieri, waste biomass valor 2010, 1, 283",1.0
+CO,0.9,"biagini, bioresource technology 2016, 201, 156",1.0
+CO,0.9,"de andres, fuel processing technology 2011, 92, 433",1.0
+CO,0.9,"dutta,energy procedia 2014, 54, 21",1.0
+CO,0.9,"erkiaga, chem. eng. j. 2014, 237, 259",0.7142857142857143
+CO,0.9,"fremaux, energy convers. manag. 2015, 91, 427",1.0
+CO,0.9,"gai, int. j. hydrog 2012, 37, 4935",1.0
+CO,0.9,"herguido, ind. eng. chem. res. 1992, 31, 1274",0.9375
+CO,0.9,"huili liu, j. nat. gas chem. 2012, 21, 374",1.0
+CO,0.9,"huynh, fuel 2013, 103, 987",1.0
+CO,0.9,"iovane, biomass bioenerg 2013, 56, 423",1.0
+CO,0.9,"kaewluan, fuel processing technology 2011, 92, 671",1.0
+CO,0.9,"karatas, fuel 2018, 214, 285",0.8666666666666667
+CO,0.9,"khan, energy convers. manag. 2014, 87, 1224",0.75
+CO,0.9,"lahijani, bioresource technology 2011, 102, 2068",1.0
+CO,0.9,"loha, j renew and sust energy 2013, 5, 043111",1.0
+CO,0.9,"luo, energy 2012, 44, 391",0.8
+CO,0.9,"lv, bioresource technology 2004, 95, 95",0.631578947368421
+CO,0.9,"mansaray, biomass and bioenergy 1999, 17, 315",1.0
+CO,0.9,"narváez, ind. eng. chem. res. 1996, 35, 2110",1.0
+CO,0.9,"ruoppolo, waste management 2012, 32, 724",0.6666666666666666
+CO,0.9,"sarker, energy conversion and management, 2015, 103, 801",1.0
+CO,0.9,"sarker, energy conversion and management, 2015, 91, 451",1.0
+CO,0.9,"song, biomass bioenergy 2012, 36, 258",1.0
+CO,0.9,"wang, int. j. hydrog 2012, 37, 6503",0.8333333333333334
+CO,0.9,"yin, bioresour. technol. 2012, 119,15",1.0
+CO,0.9,"zhang, fuel 2017, 188, 628",0.0
+H2_CO,0.8,"arena, fuel 2014, 117, 528",1.0
+H2_CO,0.8,"arena, waste management 2010, 30, 1212",0.5
+H2_CO,0.8,"baratieri, waste biomass valor 2010, 1, 283",1.0
+H2_CO,0.8,"biagini, bioresource technology 2016, 201, 156",1.0
+H2_CO,0.8,"de andres, fuel processing technology 2011, 92, 433",0.7391304347826086
+H2_CO,0.8,"dutta,energy procedia 2014, 54, 21",1.0
+H2_CO,0.8,"erkiaga, chem. eng. j. 2014, 237, 259",0.8571428571428571
+H2_CO,0.8,"fremaux, energy convers. manag. 2015, 91, 427",1.0
+H2_CO,0.8,"gai, int. j. hydrog 2012, 37, 4935",0.7142857142857143
+H2_CO,0.8,"herguido, ind. eng. chem. res. 1992, 31, 1274",1.0
+H2_CO,0.8,"huili liu, j. nat. gas chem. 2012, 21, 374",0.8888888888888888
+H2_CO,0.8,"huynh, fuel 2013, 103, 987",0.8888888888888888
+H2_CO,0.8,"iovane, biomass bioenerg 2013, 56, 423",1.0
+H2_CO,0.8,"kaewluan, fuel processing technology 2011, 92, 671",1.0
+H2_CO,0.8,"karatas, fuel 2018, 214, 285",0.4666666666666667
+H2_CO,0.8,"khan, energy convers. manag. 2014, 87, 1224",0.75
+H2_CO,0.8,"lahijani, bioresource technology 2011, 102, 2068",1.0
+H2_CO,0.8,"loha, j renew and sust energy 2013, 5, 043111",0.875
+H2_CO,0.8,"luo, energy 2012, 44, 391",0.8
+H2_CO,0.8,"lv, bioresource technology 2004, 95, 95",0.0
+H2_CO,0.8,"mansaray, biomass and bioenergy 1999, 17, 315",1.0
+H2_CO,0.8,"narváez, ind. eng. chem. res. 1996, 35, 2110",1.0
+H2_CO,0.8,"ruoppolo, waste management 2012, 32, 724",0.7777777777777778
+H2_CO,0.8,"sarker, energy conversion and management, 2015, 103, 801",1.0
+H2_CO,0.8,"sarker, energy conversion and management, 2015, 91, 451",1.0
+H2_CO,0.8,"song, biomass bioenergy 2012, 36, 258",1.0
+H2_CO,0.8,"wang, int. j. hydrog 2012, 37, 6503",1.0
+H2_CO,0.8,"yin, bioresour. technol. 2012, 119,15",1.0
+H2_CO,0.8,"zhang, fuel 2017, 188, 628",1.0
+H2_CO,0.9,"arena, fuel 2014, 117, 528",1.0
+H2_CO,0.9,"arena, waste management 2010, 30, 1212",0.875
+H2_CO,0.9,"baratieri, waste biomass valor 2010, 1, 283",1.0
+H2_CO,0.9,"biagini, bioresource technology 2016, 201, 156",1.0
+H2_CO,0.9,"de andres, fuel processing technology 2011, 92, 433",1.0
+H2_CO,0.9,"dutta,energy procedia 2014, 54, 21",1.0
+H2_CO,0.9,"erkiaga, chem. eng. j. 2014, 237, 259",1.0
+H2_CO,0.9,"fremaux, energy convers. manag. 2015, 91, 427",1.0
+H2_CO,0.9,"gai, int. j. hydrog 2012, 37, 4935",1.0
+H2_CO,0.9,"herguido, ind. eng. chem. res. 1992, 31, 1274",1.0
+H2_CO,0.9,"huili liu, j. nat. gas chem. 2012, 21, 374",1.0
+H2_CO,0.9,"huynh, fuel 2013, 103, 987",1.0
+H2_CO,0.9,"iovane, biomass bioenerg 2013, 56, 423",1.0
+H2_CO,0.9,"kaewluan, fuel processing technology 2011, 92, 671",1.0
+H2_CO,0.9,"karatas, fuel 2018, 214, 285",1.0
+H2_CO,0.9,"khan, energy convers. manag. 2014, 87, 1224",1.0
+H2_CO,0.9,"lahijani, bioresource technology 2011, 102, 2068",1.0
+H2_CO,0.9,"loha, j renew and sust energy 2013, 5, 043111",1.0
+H2_CO,0.9,"luo, energy 2012, 44, 391",0.9
+H2_CO,0.9,"lv, bioresource technology 2004, 95, 95",0.0
+H2_CO,0.9,"mansaray, biomass and bioenergy 1999, 17, 315",1.0
+H2_CO,0.9,"narváez, ind. eng. chem. res. 1996, 35, 2110",1.0
+H2_CO,0.9,"ruoppolo, waste management 2012, 32, 724",1.0
+H2_CO,0.9,"sarker, energy conversion and management, 2015, 103, 801",1.0
+H2_CO,0.9,"sarker, energy conversion and management, 2015, 91, 451",1.0
+H2_CO,0.9,"song, biomass bioenergy 2012, 36, 258",1.0
+H2_CO,0.9,"wang, int. j. hydrog 2012, 37, 6503",1.0
+H2_CO,0.9,"yin, bioresour. technol. 2012, 119,15",1.0
+H2_CO,0.9,"zhang, fuel 2017, 188, 628",1.0
+syngas_share_N2free,0.8,"arena, fuel 2014, 117, 528",1.0
+syngas_share_N2free,0.8,"arena, waste management 2010, 30, 1212",0.3333333333333333
+syngas_share_N2free,0.8,"baratieri, waste biomass valor 2010, 1, 283",0.9444444444444444
+syngas_share_N2free,0.8,"biagini, bioresource technology 2016, 201, 156",0.8571428571428571
+syngas_share_N2free,0.8,"de andres, fuel processing technology 2011, 92, 433",1.0
+syngas_share_N2free,0.8,"dutta,energy procedia 2014, 54, 21",0.6
+syngas_share_N2free,0.8,"erkiaga, chem. eng. j. 2014, 237, 259",1.0
+syngas_share_N2free,0.8,"fremaux, energy convers. manag. 2015, 91, 427",1.0
+syngas_share_N2free,0.8,"gai, int. j. hydrog 2012, 37, 4935",0.7142857142857143
+syngas_share_N2free,0.8,"herguido, ind. eng. chem. res. 1992, 31, 1274",1.0
+syngas_share_N2free,0.8,"huili liu, j. nat. gas chem. 2012, 21, 374",0.8888888888888888
+syngas_share_N2free,0.8,"huynh, fuel 2013, 103, 987",1.0
+syngas_share_N2free,0.8,"iovane, biomass bioenerg 2013, 56, 423",1.0
+syngas_share_N2free,0.8,"kaewluan, fuel processing technology 2011, 92, 671",0.8125
+syngas_share_N2free,0.8,"karatas, fuel 2018, 214, 285",0.8
+syngas_share_N2free,0.8,"khan, energy convers. manag. 2014, 87, 1224",0.25
+syngas_share_N2free,0.8,"lahijani, bioresource technology 2011, 102, 2068",1.0
+syngas_share_N2free,0.8,"loha, j renew and sust energy 2013, 5, 043111",1.0
+syngas_share_N2free,0.8,"luo, energy 2012, 44, 391",0.7
+syngas_share_N2free,0.8,"lv, bioresource technology 2004, 95, 95",0.0
+syngas_share_N2free,0.8,"mansaray, biomass and bioenergy 1999, 17, 315",1.0
+syngas_share_N2free,0.8,"narváez, ind. eng. chem. res. 1996, 35, 2110",1.0
+syngas_share_N2free,0.8,"ruoppolo, waste management 2012, 32, 724",1.0
+syngas_share_N2free,0.8,"sarker, energy conversion and management, 2015, 103, 801",0.8
+syngas_share_N2free,0.8,"sarker, energy conversion and management, 2015, 91, 451",1.0
+syngas_share_N2free,0.8,"song, biomass bioenergy 2012, 36, 258",1.0
+syngas_share_N2free,0.8,"wang, int. j. hydrog 2012, 37, 6503",1.0
+syngas_share_N2free,0.8,"yin, bioresour. technol. 2012, 119,15",1.0
+syngas_share_N2free,0.8,"zhang, fuel 2017, 188, 628",1.0
+syngas_share_N2free,0.9,"arena, fuel 2014, 117, 528",1.0
+syngas_share_N2free,0.9,"arena, waste management 2010, 30, 1212",0.4166666666666667
+syngas_share_N2free,0.9,"baratieri, waste biomass valor 2010, 1, 283",1.0
+syngas_share_N2free,0.9,"biagini, bioresource technology 2016, 201, 156",1.0
+syngas_share_N2free,0.9,"de andres, fuel processing technology 2011, 92, 433",1.0
+syngas_share_N2free,0.9,"dutta,energy procedia 2014, 54, 21",1.0
+syngas_share_N2free,0.9,"erkiaga, chem. eng. j. 2014, 237, 259",1.0
+syngas_share_N2free,0.9,"fremaux, energy convers. manag. 2015, 91, 427",1.0
+syngas_share_N2free,0.9,"gai, int. j. hydrog 2012, 37, 4935",0.7142857142857143
+syngas_share_N2free,0.9,"herguido, ind. eng. chem. res. 1992, 31, 1274",1.0
+syngas_share_N2free,0.9,"huili liu, j. nat. gas chem. 2012, 21, 374",1.0
+syngas_share_N2free,0.9,"huynh, fuel 2013, 103, 987",1.0
+syngas_share_N2free,0.9,"iovane, biomass bioenerg 2013, 56, 423",1.0
+syngas_share_N2free,0.9,"kaewluan, fuel processing technology 2011, 92, 671",1.0
+syngas_share_N2free,0.9,"karatas, fuel 2018, 214, 285",0.9333333333333333
+syngas_share_N2free,0.9,"khan, energy convers. manag. 2014, 87, 1224",0.25
+syngas_share_N2free,0.9,"lahijani, bioresource technology 2011, 102, 2068",1.0
+syngas_share_N2free,0.9,"loha, j renew and sust energy 2013, 5, 043111",1.0
+syngas_share_N2free,0.9,"luo, energy 2012, 44, 391",0.9
+syngas_share_N2free,0.9,"lv, bioresource technology 2004, 95, 95",0.10526315789473684
+syngas_share_N2free,0.9,"mansaray, biomass and bioenergy 1999, 17, 315",1.0
+syngas_share_N2free,0.9,"narváez, ind. eng. chem. res. 1996, 35, 2110",1.0
+syngas_share_N2free,0.9,"ruoppolo, waste management 2012, 32, 724",1.0
+syngas_share_N2free,0.9,"sarker, energy conversion and management, 2015, 103, 801",1.0
+syngas_share_N2free,0.9,"sarker, energy conversion and management, 2015, 91, 451",1.0
+syngas_share_N2free,0.9,"song, biomass bioenergy 2012, 36, 258",1.0
+syngas_share_N2free,0.9,"wang, int. j. hydrog 2012, 37, 6503",1.0
+syngas_share_N2free,0.9,"yin, bioresour. technol. 2012, 119,15",1.0
+syngas_share_N2free,0.9,"zhang, fuel 2017, 188, 628",1.0
+gas_yield,0.8,"arena, fuel 2014, 117, 528",1.0
+gas_yield,0.8,"arena, waste management 2010, 30, 1212",0.16666666666666666
+gas_yield,0.8,"baratieri, waste biomass valor 2010, 1, 283",0.0
+gas_yield,0.8,"biagini, bioresource technology 2016, 201, 156",1.0
+gas_yield,0.8,"de andres, fuel processing technology 2011, 92, 433",0.9565217391304348
+gas_yield,0.8,"erkiaga, chem. eng. j. 2014, 237, 259",1.0
+gas_yield,0.8,"fremaux, energy convers. manag. 2015, 91, 427",1.0
+gas_yield,0.8,"gai, int. j. hydrog 2012, 37, 4935",0.8571428571428571
+gas_yield,0.8,"herguido, ind. eng. chem. res. 1992, 31, 1274",1.0
+gas_yield,0.8,"huili liu, j. nat. gas chem. 2012, 21, 374",0.8888888888888888
+gas_yield,0.8,"iovane, biomass bioenerg 2013, 56, 423",1.0
+gas_yield,0.8,"kaewluan, fuel processing technology 2011, 92, 671",1.0
+gas_yield,0.8,"khan, energy convers. manag. 2014, 87, 1224",1.0
+gas_yield,0.8,"lahijani, bioresource technology 2011, 102, 2068",1.0
+gas_yield,0.8,"loha, j renew and sust energy 2013, 5, 043111",1.0
+gas_yield,0.8,"luo, energy 2012, 44, 391",1.0
+gas_yield,0.8,"lv, bioresource technology 2004, 95, 95",0.631578947368421
+gas_yield,0.8,"mansaray, biomass and bioenergy 1999, 17, 315",1.0
+gas_yield,0.8,"narváez, ind. eng. chem. res. 1996, 35, 2110",1.0
+gas_yield,0.8,"ruoppolo, waste management 2012, 32, 724",0.6111111111111112
+gas_yield,0.8,"sarker, energy conversion and management, 2015, 103, 801",1.0
+gas_yield,0.8,"sarker, energy conversion and management, 2015, 91, 451",1.0
+gas_yield,0.8,"song, biomass bioenergy 2012, 36, 258",1.0
+gas_yield,0.8,"wang, int. j. hydrog 2012, 37, 6503",1.0
+gas_yield,0.8,"yin, bioresour. technol. 2012, 119,15",0.8
+gas_yield,0.8,"zhang, fuel 2017, 188, 628",1.0
+gas_yield,0.9,"arena, fuel 2014, 117, 528",1.0
+gas_yield,0.9,"arena, waste management 2010, 30, 1212",0.25
+gas_yield,0.9,"baratieri, waste biomass valor 2010, 1, 283",0.0
+gas_yield,0.9,"biagini, bioresource technology 2016, 201, 156",1.0
+gas_yield,0.9,"de andres, fuel processing technology 2011, 92, 433",1.0
+gas_yield,0.9,"erkiaga, chem. eng. j. 2014, 237, 259",1.0
+gas_yield,0.9,"fremaux, energy convers. manag. 2015, 91, 427",1.0
+gas_yield,0.9,"gai, int. j. hydrog 2012, 37, 4935",1.0
+gas_yield,0.9,"herguido, ind. eng. chem. res. 1992, 31, 1274",1.0
+gas_yield,0.9,"huili liu, j. nat. gas chem. 2012, 21, 374",0.8888888888888888
+gas_yield,0.9,"iovane, biomass bioenerg 2013, 56, 423",1.0
+gas_yield,0.9,"kaewluan, fuel processing technology 2011, 92, 671",1.0
+gas_yield,0.9,"khan, energy convers. manag. 2014, 87, 1224",1.0
+gas_yield,0.9,"lahijani, bioresource technology 2011, 102, 2068",1.0
+gas_yield,0.9,"loha, j renew and sust energy 2013, 5, 043111",1.0
+gas_yield,0.9,"luo, energy 2012, 44, 391",1.0
+gas_yield,0.9,"lv, bioresource technology 2004, 95, 95",1.0
+gas_yield,0.9,"mansaray, biomass and bioenergy 1999, 17, 315",1.0
+gas_yield,0.9,"narváez, ind. eng. chem. res. 1996, 35, 2110",1.0
+gas_yield,0.9,"ruoppolo, waste management 2012, 32, 724",0.8888888888888888
+gas_yield,0.9,"sarker, energy conversion and management, 2015, 103, 801",1.0
+gas_yield,0.9,"sarker, energy conversion and management, 2015, 91, 451",1.0
+gas_yield,0.9,"song, biomass bioenergy 2012, 36, 258",1.0
+gas_yield,0.9,"wang, int. j. hydrog 2012, 37, 6503",1.0
+gas_yield,0.9,"yin, bioresour. technol. 2012, 119,15",0.8
+gas_yield,0.9,"zhang, fuel 2017, 188, 628",1.0
+CGE,0.8,"arena, fuel 2014, 117, 528",1.0
+CGE,0.8,"arena, waste management 2010, 30, 1212",0.7916666666666666
+CGE,0.8,"baratieri, waste biomass valor 2010, 1, 283",0.9444444444444444
+CGE,0.8,"biagini, bioresource technology 2016, 201, 156",1.0
+CGE,0.8,"de andres, fuel processing technology 2011, 92, 433",0.8695652173913043
+CGE,0.8,"erkiaga, chem. eng. j. 2014, 237, 259",1.0
+CGE,0.8,"fremaux, energy convers. manag. 2015, 91, 427",1.0
+CGE,0.8,"gai, int. j. hydrog 2012, 37, 4935",0.7142857142857143
+CGE,0.8,"herguido, ind. eng. chem. res. 1992, 31, 1274",0.6
+CGE,0.8,"huili liu, j. nat. gas chem. 2012, 21, 374",0.5555555555555556
+CGE,0.8,"iovane, biomass bioenerg 2013, 56, 423",1.0
+CGE,0.8,"kaewluan, fuel processing technology 2011, 92, 671",0.9375
+CGE,0.8,"khan, energy convers. manag. 2014, 87, 1224",0.3333333333333333
+CGE,0.8,"lahijani, bioresource technology 2011, 102, 2068",0.5714285714285714
+CGE,0.8,"loha, j renew and sust energy 2013, 5, 043111",1.0
+CGE,0.8,"luo, energy 2012, 44, 391",0.8
+CGE,0.8,"lv, bioresource technology 2004, 95, 95",0.7
+CGE,0.8,"mansaray, biomass and bioenergy 1999, 17, 315",1.0
+CGE,0.8,"narváez, ind. eng. chem. res. 1996, 35, 2110",1.0
+CGE,0.8,"ruoppolo, waste management 2012, 32, 724",0.8333333333333334
+CGE,0.8,"sarker, energy conversion and management, 2015, 103, 801",0.8
+CGE,0.8,"sarker, energy conversion and management, 2015, 91, 451",1.0
+CGE,0.8,"song, biomass bioenergy 2012, 36, 258",0.5555555555555556
+CGE,0.8,"wang, int. j. hydrog 2012, 37, 6503",0.75
+CGE,0.8,"yin, bioresour. technol. 2012, 119,15",0.8
+CGE,0.8,"zhang, fuel 2017, 188, 628",0.0
+CGE,0.9,"arena, fuel 2014, 117, 528",1.0
+CGE,0.9,"arena, waste management 2010, 30, 1212",1.0
+CGE,0.9,"baratieri, waste biomass valor 2010, 1, 283",1.0
+CGE,0.9,"biagini, bioresource technology 2016, 201, 156",1.0
+CGE,0.9,"de andres, fuel processing technology 2011, 92, 433",0.9565217391304348
+CGE,0.9,"erkiaga, chem. eng. j. 2014, 237, 259",1.0
+CGE,0.9,"fremaux, energy convers. manag. 2015, 91, 427",1.0
+CGE,0.9,"gai, int. j. hydrog 2012, 37, 4935",0.7142857142857143
+CGE,0.9,"herguido, ind. eng. chem. res. 1992, 31, 1274",0.6666666666666666
+CGE,0.9,"huili liu, j. nat. gas chem. 2012, 21, 374",0.6666666666666666
+CGE,0.9,"iovane, biomass bioenerg 2013, 56, 423",1.0
+CGE,0.9,"kaewluan, fuel processing technology 2011, 92, 671",1.0
+CGE,0.9,"khan, energy convers. manag. 2014, 87, 1224",0.6666666666666666
+CGE,0.9,"lahijani, bioresource technology 2011, 102, 2068",0.9285714285714286
+CGE,0.9,"loha, j renew and sust energy 2013, 5, 043111",1.0
+CGE,0.9,"luo, energy 2012, 44, 391",1.0
+CGE,0.9,"lv, bioresource technology 2004, 95, 95",0.9
+CGE,0.9,"mansaray, biomass and bioenergy 1999, 17, 315",1.0
+CGE,0.9,"narváez, ind. eng. chem. res. 1996, 35, 2110",1.0
+CGE,0.9,"ruoppolo, waste management 2012, 32, 724",0.9444444444444444
+CGE,0.9,"sarker, energy conversion and management, 2015, 103, 801",0.9333333333333333
+CGE,0.9,"sarker, energy conversion and management, 2015, 91, 451",1.0
+CGE,0.9,"song, biomass bioenergy 2012, 36, 258",0.6666666666666666
+CGE,0.9,"wang, int. j. hydrog 2012, 37, 6503",0.9166666666666666
+CGE,0.9,"yin, bioresour. technol. 2012, 119,15",0.8
+CGE,0.9,"zhang, fuel 2017, 188, 628",1.0
