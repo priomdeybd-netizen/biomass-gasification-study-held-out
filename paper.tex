@@ -5,7 +5,7 @@
 \linespread{1.12}
 \graphicspath{{figures/}{./}}
 \title{Study-Held-Out Validation of Machine-Learning Models for Biomass Gasification: Random Cross-Validation Overstates Accuracy and Prediction Intervals Remain Wide}
-\author{Priom Dey\\ \small Department of Chemistry, Shahjalal University of Science and Technology, Sylhet, Bangladesh \\ \small \texttt{2023131044@student.sust.edu} \quad ORCID: \href{https://orcid.org/0009-0007-5722-8240}{0009-0007-5722-8240}}
+\author{Priom Dey\textsuperscript{*}, Avro Talukder, Yuvraj Roy\\[2pt] \small Department of Chemistry, Shahjalal University of Science and Technology, Sylhet, Bangladesh \\[2pt] \small *Corresponding author: \texttt{2023131044@student.sust.edu} \\ \small ORCID: Priom Dey \href{https://orcid.org/0009-0007-5722-8240}{0009-0007-5722-8240}; Avro Talukder \href{https://orcid.org/0009-0007-6996-7673}{0009-0007-6996-7673} \\ \small Other e-mail addresses: \texttt{2023131055@student.sust.edu} (A.T.);\\ \small \texttt{2023131056@student.sust.edu} (Y.R.)}
 \date{}
 \begin{document}\sloppy\maketitle
 
@@ -152,29 +152,29 @@ The data set also limits what can be asked. The user-facing questions that motiv
 Using an open compilation of gasification experiments, random cross-validation overstated the skill of machine-learning models relative to validation on unseen publications for all nine outputs, with held-out skill of 0.04 to 0.58 against 0.45 to 0.84 under random folds. H$_2$, H$_2$+CO and gas heating value transferred reasonably, whereas CO and CO$_2$ could not be shown to be better than the training mean. Prediction intervals calibrated on other publications had near-nominal pooled coverage but were wide and failed completely for some publications. Pressure and feedstock mixtures cannot be studied with the current data. We recommend that gasification models be validated by leave-one-publication-out and that data be published with a study identifier.
 
 \section*{Data and Code Availability}
-The experimental data are the public data set of Ascher et al.\ \cite{Ascher2022}; please cite that work when using it. The analysis notebook, the result tables and figures, and the script that generates this manuscript are provided as Supplementary Material and will be deposited in a public repository (GitHub, archived on Zenodo) before publication. The results reported here come from \texttt{scikit-learn} 1.6.1 run in Google Colab.
+The experimental data are the public data set of Ascher et al.\ \cite{Ascher2022}; please cite that work when using it. The analysis notebook, the result tables and figures, and the script that generates this manuscript are openly available on GitHub and archived on Zenodo (\href{https://doi.org/10.5281/zenodo.23645766}{doi:10.5281/zenodo.23645766}); the Ascher et al.\ data are not redistributed and are downloaded from the original source by the notebook. The results reported here come from \texttt{scikit-learn} 1.6.1 run in Google Colab.
 
 \section*{Author Contributions}
-\textbf{Priom Dey:} conceptualization, methodology, software, formal analysis, investigation, data curation, validation, visualization, writing -- original draft, writing -- review and editing.
+\textbf{Priom Dey:} conceptualization, methodology, software, formal analysis, investigation, data curation, validation, visualization, writing -- original draft, writing -- review and editing. \textbf{Avro Talukder} and \textbf{Yuvraj Roy:} validation (checking of cited sources and of reported numbers against the supplied tables), writing -- review and editing.
 
 \section*{Declaration of AI Assistance}
-Generative AI (Anthropic's Claude) was used to help write the analysis code and to draft and edit the manuscript. The author ran the notebook, reviewed the results and the manuscript, and takes full responsibility for the content. AI tools are not listed as authors.
+Generative AI (Anthropic's Claude) was used to help write the analysis code and to draft and edit the manuscript. The corresponding author ran the notebook; all authors reviewed the manuscript, and the authors take full responsibility for the content. AI tools are not listed as authors.
 
 \section*{Funding}
 This research received no specific grant from any funding agency in the public, commercial or not-for-profit sectors.
 
 \section*{Competing Interests}
-The author declares no competing interests.
+The authors declare no competing interests.
 
 \begin{thebibliography}{99}\small
 \bibitem{Ascher2022} S.~Ascher, X.~Wang, I.~Watson, W.~Sloan, S.~You, Interpretable machine learning to model biomass and waste gasification, \emph{Bioresour.\ Technol.} \textbf{364}, 128062 (2022). doi:10.1016/j.biortech.2022.128062
 \bibitem{Ascher2022review} S.~Ascher, I.~Watson, S.~You, Machine learning methods for modelling the gasification and pyrolysis of biomass and waste, \emph{Renew.\ Sustain.\ Energy Rev.} \textbf{155}, 111902 (2022). doi:10.1016/j.rser.2021.111902
-\bibitem{Roberts2017} D.~R.~Roberts et al., Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure, \emph{Ecography} \textbf{40}, 913 (2017).
-\bibitem{Meredig2018} B.~Meredig et al., Can machine learning identify the next high-temperature superconductor? Examining extrapolation performance for materials discovery, \emph{Mol.\ Syst.\ Des.\ Eng.} \textbf{3}, 819 (2018).
+\bibitem{Roberts2017} D.~R.~Roberts et al., Cross-validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure, \emph{Ecography} \textbf{40}, 913--929 (2017).
+\bibitem{Meredig2018} B.~Meredig et al., Can machine learning identify the next high-temperature superconductor? Examining extrapolation performance for materials discovery, \emph{Mol.\ Syst.\ Des.\ Eng.} \textbf{3}, 819--825 (2018). doi:10.1039/C8ME00012C
 \bibitem{Breiman2001} L.~Breiman, Random forests, \emph{Mach.\ Learn.} \textbf{45}, 5 (2001).
 \bibitem{Geurts2006} P.~Geurts, D.~Ernst, L.~Wehenkel, Extremely randomized trees, \emph{Mach.\ Learn.} \textbf{63}, 3 (2006).
 \bibitem{Pedregosa2011} F.~Pedregosa et al., Scikit-learn: machine learning in Python, \emph{J.\ Mach.\ Learn.\ Res.} \textbf{12}, 2825 (2011).
 \bibitem{Lei2018} J.~Lei, M.~G'Sell, A.~Rinaldo, R.~J.~Tibshirani, L.~Wasserman, Distribution-free predictive inference for regression, \emph{J.\ Am.\ Stat.\ Assoc.} \textbf{113}, 1094 (2018). doi:10.1080/01621459.2017.1307116
-\bibitem{Angelopoulos2023} A.~N.~Angelopoulos, S.~Bates, Conformal prediction: a gentle introduction, \emph{Found.\ Trends Mach.\ Learn.} \textbf{16}, 494 (2023).
+\bibitem{Angelopoulos2023} A.~N.~Angelopoulos, S.~Bates, Conformal prediction: a gentle introduction, \emph{Found.\ Trends Mach.\ Learn.} \textbf{16}, 494--591 (2023). doi:10.1561/2200000101
 \end{thebibliography}
 \end{document}
