@@ -1,0 +1,63 @@
+PLOS ONE SUBMISSION: WHAT TO TYPE INTO THE ONLINE FORM
+(Copy each block into the matching field. Check every item against the current PLOS ONE guidelines before you submit.)
+
+1. FEES (do this first)
+- Cost: PLOS lists a research-article fee of about USD 2,596 (verify at plos.org/publish/fees).
+- You have no funding, so you must request fee help INSIDE the submission system, at the time of submission.
+  Requests made later (during review or after acceptance) are not considered, and you cannot request by email.
+- Step A: open research4life.org/access/eligibility and check whether Bangladesh is currently Group A or Group B.
+  Group A and no external funding -> publication in PLOS ONE is free if you tick the Research4Life option.
+  Group B -> apply for PLOS Publication Fee Assistance instead.
+- Editors and reviewers do not see fee-assistance requests.
+- If fee help is refused and you cannot pay, do NOT proceed; choose a no-fee journal instead.
+
+2. ARTICLE TYPE: Research Article
+
+3. TITLE
+Study-Held-Out Validation of Machine-Learning Models for Biomass Gasification: Random Cross-Validation Overstates Accuracy and Prediction Intervals Remain Wide
+
+4. SHORT TITLE (max 50 characters)
+Study-held-out validation of gasification models
+
+5. AUTHORS
+Priom Dey (corresponding author) - ORCID 0009-0007-5722-8240 - 2023131044@student.sust.edu
+Avro Talukder - ORCID 0009-0007-6996-7673 - 2023131055@student.sust.edu
+Yuvraj Roy - 2023131056@student.sust.edu
+Affiliation (all): Department of Chemistry, Shahjalal University of Science and Technology, Sylhet, Bangladesh
+
+6. AUTHOR CONTRIBUTIONS (CRediT roles; pick them in the system)
+Priom Dey: Conceptualization, Methodology, Software, Formal analysis, Investigation, Data curation, Validation, Visualization, Writing - original draft, Writing - review and editing.
+Avro Talukder and Yuvraj Roy: Validation (checking of cited sources and of reported numbers against the supplied tables), Writing - review and editing.
+
+7. ABSTRACT: paste from the manuscript (284 words; the limit is 300).
+
+8. KEYWORDS: biomass gasification; syngas; machine learning; cross-validation; conformal prediction; uncertainty
+
+9. FUNDING STATEMENT
+The authors received no specific funding for this work.
+
+10. COMPETING INTERESTS
+The authors have declared that no competing interests exist.
+
+11. DATA AVAILABILITY STATEMENT
+The experimental data are the public data set of Ascher et al. (Bioresource Technology 364, 128062, 2022; sheet "Clean Data", repository commit b4b7505). These third-party data are not redistributed by the authors; they are downloaded from the original source by our notebook, and access instructions are given in the code repository. All code, the mapping used to merge spelling variants of study names, and all result tables and figures underlying the findings are available on GitHub and archived on Zenodo (https://doi.org/10.5281/zenodo.23645766).
+-> Before submitting: (a) put the exact URL of the Ascher et al. data into the Zenodo README; (b) check that the Zenodo record really contains the study-name merge table and the numeric results behind every table and figure (PLOS requires the minimal data set); (c) if the Ascher data licence allows redistribution, add the cleaned file so reviewers need not download it.
+
+12. ETHICS STATEMENT: Not applicable (no human or animal subjects, no field work).
+
+13. GENERATIVE AI DISCLOSURE (if asked)
+Generative AI (Anthropic's Claude) was used to help write the first draft of the analysis code and the first draft of the manuscript. The authors then edited and revised both drafts. The corresponding author ran the notebook, all authors reviewed the final manuscript, and the authors take full responsibility for its content.
+
+14. PREPRINT: choose according to your wish (optional).
+
+15. SUGGESTED / OPPOSED REVIEWERS (optional): give real names only, people who are NOT co-authors or colleagues at your institution and who work on ML for gasification. Do not invent names.
+
+16. FILES TO UPLOAD
+- Manuscript: Manuscript_PLOS_ONE.docx (Item type: Manuscript)
+- Cover letter: Cover_Letter_PLOS_ONE.docx (Item type: Cover Letter)
+- Figures: Fig1.tif, Fig2.tif, Fig3.tif, Fig4.tif, uploaded one by one as "Figure" with the matching label "Fig 1" ... "Fig 4"
+  (300 dpi TIFF; PLOS checks figures with its PACE tool, so use the check/preview step in the system)
+- Do not upload highlights, title page, or declaration-of-interest files; they are not used by PLOS ONE.
+
+17. AFTER SUBMISSION
+Keep your login; check the "Pending" status; respond to the technical-check email within a few days.
